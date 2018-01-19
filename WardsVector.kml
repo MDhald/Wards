@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"> <NetworkLink>
+<open>1</open>
+<name>Wards</name>
+<LookAt>
+<longitude>-79.80695268148796</longitude>
+<latitude>43.05112758330014</latitude>
+<range>54292.61873510264</range>
+</LookAt>
+<Link>
+<viewRefreshMode>onRequest</viewRefreshMode>
+<href>http://maps.haldimandcounty.on.ca/arcgis/services/2018WardsHaldimandCounty/MapServer/KmlServer?Composite=false&amp;LayerIDs=0</href>
+<viewFormat>BBOX=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth];CAMERA=[lookatLon],[lookatLat],[lookatRange],[lookatTilt],[lookatHeading];VIEW=[horizFov],[vertFov],[horizPixels],[vertPixels],[terrainEnabled]</viewFormat>
+</Link>
+</NetworkLink>
+</kml>
